@@ -20,5 +20,5 @@ This project demonstrates how to fine-tune the **DistilBERT** model on the **20 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/20-newsgroups-classification.git
-   cd 20-newsgroups-classification
+   git clone https://github.com/alxsss/fine_tune_text_classifier.git
+   cd fine_tune_text_classifier
